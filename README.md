@@ -8,3 +8,4 @@ Variable: `DATABASE_URL` = cadena de conexión Neon.
 
 ## Seguridad del prototipo
 La identificación por selector de técnico NO es autenticación. Es deliberadamente simple para demostración académica.
+<!-- prueba auto-deploy -->. 
